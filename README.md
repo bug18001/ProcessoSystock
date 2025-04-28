@@ -1,5 +1,6 @@
 # ProcessoSystock
 Desafio Técnico: Analista de Integração de Dados (Implantação)
+As consultas SQL se encontram no arquivo `.sql` dentro do repositório.
 
 # Contextualização
 Antes de responder às perguntas, gostaria de contextualizar minha experiência com análise de dados e gestão de projetos.
